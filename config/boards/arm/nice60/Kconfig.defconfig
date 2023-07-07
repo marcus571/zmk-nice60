@@ -4,7 +4,7 @@
 if BOARD_NICE60
 
 config ZMK_KEYBOARD_NAME
-    default "Zephyr-67"
+    default "nice!60"
 
 if USB_DEVICE_STACK
 
