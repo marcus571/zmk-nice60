@@ -108,15 +108,6 @@ RC(4,0)   RC(4,1)   RC(4,2)                                            RC(4,9)  
     status = "okay";
 };
 
-&spi3 {
-    compatible = "nordic,nrf-spim";
-
-    pinctrl-0 = <&spi3_default>;
-    pinctrl-names = "default";
-    status = "okay";
-
-
-};
 
 &usbd {
     status = "okay";
