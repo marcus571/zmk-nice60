@@ -1,5 +1,5 @@
 identifier: nice60
-name: Zephyr-67
+name: nice!60
 type: mcu
 arch: arm
 toolchain:
